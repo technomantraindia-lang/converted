@@ -1386,6 +1386,330 @@
     font-weight: 500;
 }
 
+/* ==========================================================================
+   HOMEPAGE SPECIFIC SECTION REFINEMENTS & CORRUPTION FIXES
+   ========================================================================== */
+
+/* 1. Counter / Stats Bar Refinement */
+.elementor-element-64b6b4 {
+    margin-top: -30px !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+.elementor-element-5a8174bc > .elementor-container {
+    background: #ffffff !important;
+    border-radius: 12px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08) !important;
+    border: 1px solid #edf2f7 !important;
+    padding: 10px 0 !important;
+}
+
+.elementor-counter-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 600 !important;
+    font-size: 14.5px !important;
+    color: #475569 !important;
+    margin-top: 8px !important;
+}
+
+.elementor-counter-number-wrapper {
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 38px !important;
+    color: #0f172a !important;
+}
+
+/* 2. Best Reason to Choose Our Service Section */
+.elementor-element-61fe2fa6 {
+    background: #f8fafc !important;
+    padding: 75px 20px 80px 20px !important;
+    border-top: 1px solid #edf2f7 !important;
+}
+
+.elementor-element-69e795b2 .elementor-heading-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    color: #0d2138 !important;
+    text-align: center !important;
+    margin-bottom: 45px !important;
+    line-height: 1.3 !important;
+}
+
+.elementor-element-72d76ecd > .elementor-container {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: stretch !important;
+    gap: 24px !important;
+    flex-wrap: wrap !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+}
+
+.elementor-element-67ab961d,
+.elementor-element-6c09e715,
+.elementor-element-369b0d13,
+.elementor-element-53d0b75e {
+    flex: 1 1 240px !important;
+    max-width: 270px !important;
+    width: auto !important;
+    background: #ffffff !important;
+    padding: 35px 22px !important;
+    border-radius: 12px !important;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.04) !important;
+    border: 1px solid #e2e8f0 !important;
+    text-align: center !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.elementor-element-67ab961d:hover,
+.elementor-element-6c09e715:hover,
+.elementor-element-369b0d13:hover,
+.elementor-element-53d0b75e:hover {
+    transform: translateY(-6px) !important;
+    box-shadow: 0 14px 30px rgba(49, 94, 161, 0.12) !important;
+    border-color: #315EA1 !important;
+}
+
+.elementor-element-67ab961d img,
+.elementor-element-6c09e715 img,
+.elementor-element-369b0d13 img,
+.elementor-element-53d0b75e img {
+    margin-bottom: 18px !important;
+    height: 52px !important;
+    width: auto !important;
+    object-fit: contain !important;
+    transition: transform 0.3s ease !important;
+}
+
+.elementor-element-67ab961d:hover img,
+.elementor-element-6c09e715:hover img,
+.elementor-element-369b0d13:hover img,
+.elementor-element-53d0b75e:hover img {
+    transform: scale(1.12) !important;
+}
+
+.elementor-element-11e8f678 .elementor-heading-title,
+.elementor-element-127c4fb9 .elementor-heading-title,
+.elementor-element-5cfdf39e .elementor-heading-title,
+.elementor-element-5f573868 .elementor-heading-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    color: #1e293b !important;
+    line-height: 1.45 !important;
+    margin: 0 !important;
+}
+
+/* Hide legacy 1px divider images */
+.elementor-element-28daccaa,
+.elementor-element-76a3fb39,
+.elementor-element-3b70ac0b {
+    display: none !important;
+}
+
+/* 3. Homepage: Recent Projects Section */
+.elementor-element-57b3a549 {
+    background: #0d2138 !important;
+    padding: 75px 20px 85px 20px !important;
+    position: relative !important;
+}
+
+.elementor-element-157714ee .elementor-heading-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    margin-bottom: 35px !important;
+    text-align: center !important;
+}
+
+.elementor-element-79563c71 > .elementor-container {
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+    gap: 22px !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+}
+
+@media (max-width: 1024px) {
+    .elementor-element-79563c71 > .elementor-container {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (max-width: 600px) {
+    .elementor-element-79563c71 > .elementor-container {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+.elementor-element-7b465537,
+.elementor-element-7ac9a071,
+.elementor-element-70ae7c86,
+.elementor-element-3ff38a26 {
+    width: 100% !important;
+    min-height: 330px !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;
+    position: relative !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+    border: 1px solid rgba(255, 255, 255, 0.12) !important;
+}
+
+.elementor-element-7b465537:hover,
+.elementor-element-7ac9a071:hover,
+.elementor-element-70ae7c86:hover,
+.elementor-element-3ff38a26:hover {
+    transform: translateY(-6px) !important;
+    box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45) !important;
+    border-color: rgba(255, 255, 255, 0.3) !important;
+}
+
+.elementor-element-7b465537 > .elementor-element-populated,
+.elementor-element-7ac9a071 > .elementor-element-populated,
+.elementor-element-70ae7c86 > .elementor-element-populated,
+.elementor-element-3ff38a26 > .elementor-element-populated {
+    position: relative !important;
+    z-index: 2 !important;
+    padding: 24px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+    min-height: 330px !important;
+    box-sizing: border-box !important;
+    background: linear-gradient(to top, rgba(13, 33, 56, 0.95) 0%, rgba(13, 33, 56, 0.7) 60%, rgba(0, 0, 0, 0.25) 100%) !important;
+}
+
+.elementor-element-67becc0a p,
+.elementor-element-355a0d32 p,
+.elementor-element-735ea437 p,
+.elementor-element-3d104cd6 p {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 17.5px !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    margin: 0 0 10px 0 !important;
+    line-height: 1.35 !important;
+}
+
+.elementor-element-7471d5fb p,
+.elementor-element-7023dba8 p,
+.elementor-element-43815ba3 p,
+.elementor-element-7959db32 p {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 13.5px !important;
+    color: #cbd5e1 !important;
+    line-height: 1.6 !important;
+    margin: 0 !important;
+}
+
+/* 4. Homepage: Application Area Section */
+.elementor-element-7cfbc828 {
+    padding: 70px 20px 20px 20px !important;
+    background: #ffffff !important;
+}
+
+.elementor-element-02c2633 .elementor-heading-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    color: #0d2138 !important;
+    text-align: center !important;
+}
+
+.elementor-element-81f82fe {
+    padding: 10px 20px 80px 20px !important;
+    background: #ffffff !important;
+}
+
+.elementor-element-81f82fe > .elementor-container {
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+    gap: 22px !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+}
+
+@media (max-width: 992px) {
+    .elementor-element-81f82fe > .elementor-container {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .elementor-element-81f82fe > .elementor-container {
+        grid-template-columns: 1fr !important;
+    }
+}
+
+.elementor-element-25837b1,
+.elementor-element-97f5858,
+.elementor-element-f1738fe,
+.elementor-element-43a2c3b {
+    width: 100% !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.07) !important;
+    border: 1px solid #e2e8f0 !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease !important;
+    background: #ffffff !important;
+}
+
+.elementor-element-25837b1:hover,
+.elementor-element-97f5858:hover,
+.elementor-element-f1738fe:hover,
+.elementor-element-43a2c3b:hover {
+    transform: translateY(-6px) !important;
+    box-shadow: 0 14px 32px rgba(49, 94, 161, 0.16) !important;
+    border-color: #315EA1 !important;
+}
+
+.elementor-element-cae9b6e .elementor-image-box-title a,
+.elementor-element-1aebe07 .elementor-image-box-title a,
+.elementor-element-1698f22 .elementor-image-box-title a,
+.elementor-element-1edabc6 .elementor-image-box-title a {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 16.5px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    text-decoration: none !important;
+    display: block !important;
+    padding: 16px 12px !important;
+    text-align: center !important;
+    transition: color 0.2s ease !important;
+}
+
+.elementor-element-cae9b6e:hover .elementor-image-box-title a,
+.elementor-element-1aebe07:hover .elementor-image-box-title a,
+.elementor-element-1698f22:hover .elementor-image-box-title a,
+.elementor-element-1edabc6:hover .elementor-image-box-title a {
+    color: #315EA1 !important;
+}
+
+/* 5. Clients Gallery Clean Grid */
+.elementor-element-6e188e49 {
+    background: #f8fafc !important;
+    padding: 70px 20px 80px 20px !important;
+    border-top: 1px solid #e2e8f0 !important;
+    border-bottom: 1px solid #e2e8f0 !important;
+}
+
+.elementor-element-4830782 .elementor-heading-title {
+    font-family: 'Montserrat', sans-serif !important;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    color: #0d2138 !important;
+    text-align: center !important;
+}
+
+
 
 
 
