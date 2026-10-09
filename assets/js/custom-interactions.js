@@ -4,6 +4,7 @@
 
 document.addEventListener('DOMContentLoaded', function () {
     initNavigation();
+    initHeroCarousel();
     initCounters();
     initCopyrightYear();
     initSmoothScroll();
@@ -202,4 +203,89 @@ function initProjectFilters() {
         });
     });
 }
+
+function initHeroCarousel() {
+    var carousel = document.querySelector('.elementor-image-carousel-wrapper');
+    if (!carousel) return;
+
+    var wrapper = carousel.querySelector('.swiper-wrapper');
+    var slides = carousel.querySelectorAll('.swiper-slide');
+    var prevBtn = carousel.querySelector('.elementor-swiper-button-prev');
+    var nextBtn = carousel.querySelector('.elementor-swiper-button-next');
+    
+    if (!slides.length || !wrapper) return;
+
+    var currentIndex = 0;
+    var totalSlides = slides.length;
+    var autoplayInterval = null;
+
+    function goToSlide(index) {
+        if (index < 0) index = totalSlides - 1;
+        if (index >= totalSlides) index = 0;
+        currentIndex = index;
+        wrapper.style.display = 'flex';
+        wrapper.style.transition = 'transform 0.6s ease-in-out';
+        wrapper.style.transform = 'translateX(-' + (currentIndex * 100) + '%)';
+    }
+
+    if (nextBtn) {
+        nextBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            goToSlide(currentIndex + 1);
+            resetAutoplay();
+        });
+    }
+
+    if (prevBtn) {
+        prevBtn.addEventListener('click', function (e) {
+            e.preventDefault();
+            goToSlide(currentIndex - 1);
+            resetAutoplay();
+        });
+    }
+
+    function startAutoplay() {
+        if (autoplayInterval) clearInterval(autoplayInterval);
+        autoplayInterval = setInterval(function () {
+            goToSlide(currentIndex + 1);
+        }, 5000);
+    }
+
+    function resetAutoplay() {
+        if (autoplayInterval) clearInterval(autoplayInterval);
+        startAutoplay();
+    }
+
+    carousel.addEventListener('mouseenter', function () {
+        if (autoplayInterval) clearInterval(autoplayInterval);
+    });
+
+    carousel.addEventListener('mouseleave', function () {
+        startAutoplay();
+    });
+
+    // Touch Swipe Support
+    var touchStartX = 0;
+    var touchEndX = 0;
+    carousel.addEventListener('touchstart', function (e) {
+        touchStartX = e.changedTouches[0].screenX;
+    }, { passive: true });
+
+    carousel.addEventListener('touchend', function (e) {
+        touchEndX = e.changedTouches[0].screenX;
+        if (touchEndX < touchStartX - 40) {
+            goToSlide(currentIndex + 1);
+            resetAutoplay();
+        } else if (touchEndX > touchStartX + 40) {
+            goToSlide(currentIndex - 1);
+            resetAutoplay();
+        }
+    }, { passive: true });
+
+    goToSlide(0);
+    startAutoplay();
+}
+
+
+
 
