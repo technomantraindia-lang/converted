@@ -1,0 +1,308 @@
+﻿
+
+w14:paraId="3B878FA5" w14:textId="7FD45864" w:rsidR="003B3B96" w:rsidRPr="003B3B96" w:rsidRDefault="003B3B96" w:rsidP="003B3B96">Main Page
+w14:paraId="386389EA" w14:textId="799DF331" w:rsidR="00F12C76" w:rsidRDefault="003B3B96" w:rsidP="003B3B96">Logo box outline should not be visible
+w14:paraId="20394A7A" w14:textId="6B4A1C65" w:rsidR="003B3B96" w:rsidRDefault="003B3B96" w:rsidP="003B3B96">Our industrial focused service we can add technical consultancy for project design, erection and commissioning.
+w14:paraId="78DC7E1C" w14:textId="485D6C82" w:rsidR="003B3B96" w:rsidRDefault="003B3B96" w:rsidP="003B3B96">Title card where copper mineral processing &amp; scrap processing comes there, we can add video of picture slide show. As currently grey background not matching with website looks.
+w14:paraId="20512D0C" w14:textId="4EACC247" w:rsidR="003B3B96" w:rsidRDefault="003B3B96" w:rsidP="003B3B96">Bottom information zone where address and all kept it currently abruptly cutting by line it should be smooth with website background. Might be remove shadow of that box so it can integrate with whichever page currently seeing. Some of the them only text not clickable. Make it clickable to direct at designated page.
+w14:paraId="4ED5B775" w14:textId="3B464EC8" w:rsidR="009C6743" w:rsidRDefault="009C6743" w:rsidP="003B3B96">Application area under mention link going on different company website.
+w14:paraId="79A8F609" w14:textId="063CD5A4" w:rsidR="009C6743" w:rsidRDefault="009C6743" w:rsidP="003B3B96">In service button when goes their dropdown opens but if I click on service it should go to service page.
+w14:paraId="5E15CD7B" w14:textId="26CC4C31" w:rsidR="00405F2D" w:rsidRDefault="00405F2D" w:rsidP="003B3B96">There should be one above symbol for moving at page to move up when I scrolled below. Like up arrow. (Moving along as I scroll the page).
+w14:paraId="6F24420F" w14:textId="0F79CC63" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="003B3B96">We have contact us tab then let’s talk button is not needed.
+w14:paraId="7511900A" w14:textId="70220BCB" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="003B3B96">Main header above phone no &amp; email address to be mention.
+w14:paraId="5180A869" w14:textId="77777777" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">
+w14:paraId="1DEB0979" w14:textId="77777777" w:rsidR="009C6743" w:rsidRDefault="009C6743" w:rsidP="009C6743">
+w14:paraId="6DDD3C78" w14:textId="73AF37A9" w:rsidR="009C6743" w:rsidRDefault="009C6743" w:rsidP="009C6743">Service Page.
+w14:paraId="625B2C38" w14:textId="5698A5F5" w:rsidR="009C6743" w:rsidRDefault="009C6743" w:rsidP="009C6743">Title of services should be white font in blue box background which is better with overall website looks and consistent. Red font colour is not matching with our website looks.
+w14:paraId="547F50F8" w14:textId="77777777" w:rsidR="009C6743" w:rsidRDefault="009C6743" w:rsidP="009C6743">All the buttons in table once I go to another service not working directly from there. E.g. if I am currently selected Process design engineering from website header of service dropdown menu. I am not able to switch services from table of content I need to go above again.
+w14:paraId="06344D69" w14:textId="77777777" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">
+w14:paraId="13ED9009" w14:textId="3490BD60" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">Project Page:
+w14:paraId="1FCF956F" w14:textId="26D823AF" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">Need to redesign list of projects 
+w14:paraId="58E536D3" w14:textId="77777777" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">
+w14:paraId="62B1C4A2" w14:textId="377D5C0B" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">Our Team Page:
+w14:paraId="5AD91477" w14:textId="5A0FB6F4" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">Alignment of text and text with pic needs to corrected.
+w14:paraId="367CB4FE" w14:textId="77777777" w:rsidR="00817F58" w:rsidRDefault="00817F58" w:rsidP="00817F58">
+w14:paraId="22B93104" w14:textId="5A1CDD48" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">Contact Us Page:
+w14:paraId="6BCD1644" w14:textId="70D06685" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">Our Branch office address change as below:
+w14:paraId="60D25DA6" w14:textId="47DE06A2" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">436, Samanvay Westbreeze, Gotri Road, Vadodara, Vadodara, Gujarat, 390021
+w14:paraId="2F015C30" w14:textId="77777777" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">
+w14:paraId="02BD7E89" w14:textId="77777777" w:rsidR="00810559" w:rsidRPr="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">
+w14:paraId="1BC8679E" w14:textId="2B478EAE" w:rsidR="00BB2718" w:rsidRDefault="00BB2718">
+w14:paraId="73398538" w14:textId="6059AD07" w:rsidR="009C6743" w:rsidRDefault="00BB2718" w:rsidP="00817F58">Project list: -
+w14:paraId="6A20E581" w14:textId="77777777" w:rsidR="00BB2718" w:rsidRDefault="00BB2718" w:rsidP="00817F58">
+w14:paraId="37D5C86E" w14:textId="65962264" w:rsidR="00BB2718" w:rsidRDefault="00BB2718" w:rsidP="00BB2718">Completed Design, Engineering &amp; commissioning Project with 1200 MT/annum Capacity for Mangalmurti Metachem LLP in Ahmedabad Gujarat 
+w14:paraId="3898BC01" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="06D78727" w14:textId="14B98F56" w:rsidR="00BB2718" w:rsidRDefault="00BB2718" w:rsidP="00BB2718">Completed OEC Project with 6,000 MT/annum capacity of LME grade A copper cathodes (expandable up to 24,000 MT/annum) for Sustainable Metal Refinery Pvt. Ltd in Aurangabad Maharashtra.
+w14:paraId="6C1DA3F7" w14:textId="53439443" w:rsidR="00A71AED" w:rsidRPr="00A71AED" w:rsidRDefault="005E6B0C" w:rsidP="00A71AED">(It is already appearing in projects undertaken list, I think. Need to remove from there)
+w14:paraId="53151D9B" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="2FCAD61C" w14:textId="0AD682CD" w:rsidR="00BB2718" w:rsidRDefault="00BB2718" w:rsidP="00BB2718">Completed EPCM Project with 600 MT/annum capacity LME grade A copper cathodes (expandable up to 1200 MT/annum) for Greenscape Eco Management Pvt Ltd in Alwar Rajasthan.
+w14:paraId="6BAA1696" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="6DA0C5A7" w14:textId="0F61433C" w:rsidR="00BB2718" w:rsidRDefault="007F1179" w:rsidP="00BB2718">Undertaken OEC project with 20,000 MT/annum capacity LME grade A copper cathodes (expandable up to 50,000 MT/annum) for PWIL in Vapi, Gujarat. Project erection work under progress and likely to complete by July-2026.
+w14:paraId="361E7BAC" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRPr="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="3D2456B0" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="7624FCB6" w14:textId="67307D1C" w:rsidR="007F1179" w:rsidRDefault="007F1179" w:rsidP="00BB2718">Undertaken OEC project with 10,000 MT/annum capacity LME grade A copper cathodes (expandable up to 20,000 MT/annum) for Jain Green Technologies Pvt Ltd in Chennai. Project commissioning work under progress and likely to complete by Aug-2026.
+w14:paraId="7E90A394" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="1D2682B1" w14:textId="3C16C10B" w:rsidR="00604E55" w:rsidRDefault="00604E55" w:rsidP="00604E55">Undertaken OEC project with 1800 MT/annum capacity for Methacop Refinery Pvt Ltd in Palghar, Maharashtra. Project erection work under progress and likely to complete by June-2026.
+w14:paraId="182C7AAE" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRPr="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="767F9964" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRPr="00604E55" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="56653669" w14:textId="31BED64A" w:rsidR="007F1179" w:rsidRDefault="00604E55" w:rsidP="00BB2718">Prepared Feasibility report of 50,000 MT/annum capacity copper cathode &amp; Rod Project for Pan Gulf International Metal Industry, Sharjah, UAE.
+w14:paraId="7D64AF47" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="7726FE95" w14:textId="7B75D6D3" w:rsidR="00604E55" w:rsidRDefault="00604E55" w:rsidP="00604E55">Prepared Feasibility report of 24,000 MT/annum capacity copper cathode Project for Dubal Company Pvt Ltd, UAE.
+w14:paraId="01836E46" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRPr="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="4E613036" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="47F8CAF4" w14:textId="4FF90A83" w:rsidR="00604E55" w:rsidRDefault="005E6B0C" w:rsidP="00BB2718">Completed Technical Due Diligence of 45,000 MT/annum capacity FRHC Rod plant in UAE.
+w14:paraId="797CA403" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="64B1BD03" w14:textId="7ACE88F5" w:rsidR="00604E55" w:rsidRDefault="005E6B0C" w:rsidP="00A71AED">Completed Feasibility report of 12,000 MT/annum capacity FRHC Rod Project &amp; 3,600 MT/annum capacity Upcast &amp; anode Project for Pratibha Textile in Surat, Gujarat.
+w14:paraId="03427C64" w14:textId="77777777" w:rsidR="005E6B0C" w:rsidRPr="005E6B0C" w:rsidRDefault="005E6B0C" w:rsidP="005E6B0C">
+w14:paraId="2A696BB5" w14:textId="1EB580E8" w:rsidR="005E6B0C" w:rsidRDefault="005E6B0C" w:rsidP="003A7D56">Undertaken OEC project with 18,000 MT/annum capacity of LME grade A copper cathodes (expandable up to 36,000 MT/annum) in Chennai. Project commissioning work under progress and likely to complete by Mar-2027.
+w14:paraId="1BBBABDD" w14:textId="77777777" w:rsidR="003A7D56" w:rsidRPr="003A7D56" w:rsidRDefault="003A7D56" w:rsidP="003A7D56">
+w14:paraId="127E8B88" w14:textId="77777777" w:rsidR="003A7D56" w:rsidRDefault="003A7D56" w:rsidP="003A7D56">
+w14:paraId="1E216C3F" w14:textId="1635C75F" w:rsidR="005E6B0C" w:rsidRDefault="005E6B0C" w:rsidP="003A7D56">Undertaken OEC project with 10000 MT/annum capacity to produce anodes from various types of scraps in Palghar, Maharashtra. 
+w14:paraId="7762AACA" w14:textId="77777777" w:rsidR="00A71AED" w:rsidRDefault="00A71AED" w:rsidP="00A71AED">
+w14:paraId="33D6F6B5" w14:textId="77777777" w:rsidR="005E6B0C" w:rsidRDefault="005E6B0C" w:rsidP="00A71AED">
+w14:paraId="58B3B783" w14:textId="10DEC4CB" w:rsidR="00810559" w:rsidRDefault="00810559">
+w14:paraId="4D30491B" w14:textId="45B53162" w:rsidR="005E6B0C" w:rsidRDefault="00810559" w:rsidP="005E6B0C">Services To be divided in 3 Main Parts:
+w14:paraId="608049B6" w14:textId="77777777" w:rsidR="002F43C7" w:rsidRDefault="002F43C7" w:rsidP="005E6B0C">
+w14:paraId="1CBF1DE0" w14:textId="14CADC89" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">Feasibility &amp; Sourcing: - “We deliver comprehensive Techno-Economic Feasibility Studies (TEFS) and Front-End Engineering Design (FEED) to de-risk capital investments, calculate precise mass-energy balances, and optimize feedstock sourcing strategies."
+w14:paraId="23608DBF" w14:textId="77777777" w:rsidR="002F43C7" w:rsidRDefault="002F43C7" w:rsidP="002F43C7">
+w14:paraId="08B350AA" w14:textId="237506A7" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">Engineering &amp; Design: - "Full-spectrum core engineering covering equipment sizing, piping layouts, electrical engineering, and electrowinning/smelting cell design tailored to optimize metal recovery rates."
+w14:paraId="1AB4A504" w14:textId="77777777" w:rsidR="002F43C7" w:rsidRPr="005336D3" w:rsidRDefault="002F43C7" w:rsidP="005336D3">
+w14:paraId="5DD4D090" w14:textId="4C7A1F8F" w:rsidR="00810559" w:rsidRDefault="00810559" w:rsidP="00810559">Old Project Audit: - "Comprehensive plant audits and brownfield retrofits to eliminate process bottlenecks, lower energy consumption per ton, and upgrade legacy systems to modern environmental standards."
+w14:paraId="4198A96B" w14:textId="77777777" w:rsidR="002F43C7" w:rsidRDefault="002F43C7" w:rsidP="002F43C7">
+w14:paraId="54A88523" w14:textId="06B6D082" w:rsidR="002F43C7" w:rsidRDefault="002F43C7" w:rsidP="002F43C7">These three categories to be mention with the text in home page. Clicking on them needs to lead the details services page of individual services. 
+w14:paraId="2ABA2612" w14:textId="77777777" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">
+w14:paraId="11ED365B" w14:textId="4E79FB04" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">Service dropdown menu should look like this:
+w14:paraId="5DF136A0" w14:textId="77777777" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">
+w14:paraId="124DC993" w14:textId="53DBFD8F" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">
+w14:paraId="189A8F23" w14:textId="77777777" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">
+w14:paraId="38E5554D" w14:textId="4B2DB0A5" w:rsidR="005336D3" w:rsidRDefault="005336D3">
+w14:paraId="32DE8C79" w14:textId="1E1358E8" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">If someone clicks service button then it Directed to service which contains needs to be as below:
+w14:paraId="166ABDEF" w14:textId="77777777" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="002F43C7">
+w14:paraId="7FD5BB71" w14:textId="73DFA18E" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92"> The Value Statement (Top of Page) (The Page Header)
+w14:paraId="2709CED3" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="4584D7A9" w14:textId="6BDA45CA" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Specialized Engineering for the Global Base Metal &amp; Recycling Industries (Page Main Line)
+w14:paraId="145240BE" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Subtext: Proventus Valuetech isolates and optimizes the high-value metallurgical core of your facility. We provide the bankable data, process design, and engineering packages required to translate raw feedstocks into high-purity commodities.
+w14:paraId="05344777" w14:textId="46EEAC54" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Section B: The 3 Core Service Blocks (The Clickable Directory) 
+w14:paraId="451AEF27" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="013D4AC9" w14:textId="2890CE72" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Block 1: Technical Feasibility, Technical Due Diligence &amp; FEED (Header)
+w14:paraId="22B2B1C7" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="74BD049D" w14:textId="570D84C1" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Short Summary: De-risk your investments before capital deployment. We provide institution-ready Techno Feasibility Studies, forensic technical due diligence for operating/idle plant takeovers, and Front-End Engineering Design (FEED) mass-energy balances.
+w14:paraId="459DC6A9" w14:textId="65BC3067" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Button: [ Explore Feasibility &amp; Due Diligence] (Links to Section 1 Page)
+w14:paraId="1521C390" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="140EC17E" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="50DB1D85" w14:textId="135862AA" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Block 2: Turnkey Plant Supply &amp; Owner’s Engineering (OEC) (Header)
+w14:paraId="0B51EC7F" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="01084A7E" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">Short Summary: Flawless project execution for the high-value core processing zones of Pyrometallurgical smelting and Electrochemical refining plants. Available as a single-point accountability Turnkey Supply package or as an independent Owner's Engineering Consultant (OEC).
+w14:paraId="361E68B7" w14:textId="4BA379C3" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Button: [ Explore Plant Supply &amp; OEC] (Links to Section 2 Page)
+w14:paraId="181194C0" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="47A3FD03" w14:textId="346F02CB" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Block 3: Process Audit &amp; Performance Modernization (Header)
+w14:paraId="6C6474CB" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="792E3ACC" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">Short Summary: Stop value leakage in your operating assets. We conduct forensic chemical and engineering audits of legacy loops to eliminate bottlenecks, increase metal recovery yields, and upgrade cathode purity to LME Grade-A standards.
+w14:paraId="7D9294B9" w14:textId="0AEF759F" w:rsidR="00602C92" w:rsidRPr="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Button: [ Explore Audit &amp; Modernization] (Links to Section 3 Page)
+w14:paraId="109D3D3F" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="5F82FFE3" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="7E4A84B0" w14:textId="77777777" w:rsidR="00DB024B" w:rsidRDefault="00DB024B" w:rsidP="00602C92">
+w14:paraId="68103DE6" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="7B607DB5" w14:textId="4618C7F2" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Section C: Core Metallurgy Matrix (Quick Scan Visual) 
+w14:paraId="002A9FD8" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="3FC37660" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Include a simple section highlighting the specific materials your services apply to, so visitors instantly know they are in the right place.
+w14:paraId="1C497A14" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="48A110D3" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">Primary Ores &amp; Concentrates: Copper (Cu), Zinc (Zn), Lead (Pb), Cobalt (Co), and Nickel (Ni).
+w14:paraId="660F4139" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Secondary / Scrap Recycle: E-Waste &amp; Complex Printed Circuit Boards (PCBs), Copper Slags, and Industrial Metallic Wastes.
+w14:paraId="116F20F0" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="724607FD" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">Section D: Bottom Call to Action (The Conversion Zone)
+w14:paraId="502F6A95" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="03AD5E6A" w14:textId="77777777" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">Ready to Outline Your Project Scope?
+w14:paraId="04994536" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="2D0BB265" w14:textId="21CB055B" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">Discuss your operational goals or asset evaluation requirements with our principal metallurgical engineers. All project documents and initial calls are protected under strict corporate Non-Disclosure Protocols (NDA).
+w14:paraId="45678925" w14:textId="77777777" w:rsidR="00602C92" w:rsidRDefault="00602C92" w:rsidP="00602C92">
+w14:paraId="34C794C6" w14:textId="75D29AA3" w:rsidR="00602C92" w:rsidRPr="0027405B" w:rsidRDefault="00602C92" w:rsidP="00602C92">[ Request a Technical Consultation] (Clickable button to redirect to contact us page)
+w14:paraId="19E411EE" w14:textId="77777777" w:rsidR="005336D3" w:rsidRDefault="005336D3" w:rsidP="00602C92">
+w14:paraId="5E804814" w14:textId="77777777" w:rsidR="002F43C7" w:rsidRDefault="002F43C7" w:rsidP="002F43C7">
+w14:paraId="104D9A34" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRDefault="00017D1D">
+w14:paraId="6ADAAF9D" w14:textId="4F273A54" w:rsidR="002F43C7" w:rsidRDefault="005336D3" w:rsidP="002F43C7">Individual page writes up as below: 
+w14:paraId="6EE59494" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="002F43C7">
+w14:paraId="2BFA3B11" w14:textId="6A1AFD80" w:rsidR="00D3091F" w:rsidRPr="00017D1D" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Feasibility &amp; Sourcing: - (The Page Header)
+w14:paraId="3219A51A" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="1A85C948" w14:textId="1CA765A4" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">Feasibility, Technical Due Diligence &amp; FEED (Page Main Line)
+w14:paraId="4EAF51B1" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="19878AE0" w14:textId="01FA45E0" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">De-Risking Capital Investments in Base Metals &amp; Scrap Recycling (Sub line of Main Line)
+w14:paraId="76F105CA" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="7FE7844B" w14:textId="49617058" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">Multi-million-dollar metallurgical projects succeed or fail based on the accuracy of early-stage data. Whether you are breaking ground on a greenfield facility, acquiring an idle asset, or planning a major capital expansion, Proventus Valuetech provides the engineering and forensic due diligence required to secure financing, minimize technical risk, and guarantee operational viability. (Body Text)
+w14:paraId="4B17C02F" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="5B5DC382" w14:textId="4207D4E5" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">Our Core Capabilities (Header)
+w14:paraId="74EA4B75" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="74337DD3" w14:textId="282488F8" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Feasibility Studies (Sub-Header)
+w14:paraId="5D7D6060" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="766F0514" w14:textId="1D59D885" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">We deliver comprehensive, feasibility reports that financial institutions and investment boards work on for project funding.
+w14:paraId="7C225DD3" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00D3091F">
+w14:paraId="1C22D32B" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Mass &amp; Energy Balance Frameworks: Rigorous chemical and thermodynamic modeling to predict exact plant throughput and utility consumption.
+w14:paraId="7F0BD8AE" w14:textId="2715FC8F" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">CapEx &amp; OpEx Optimization: Capital and operational expenditure forecasting based on current global logistics, equipment manufacturing costs, and energy tariffs.
+w14:paraId="04849708" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Financial Modeling Integration: Clear calculations of project IRR, payback periods, and sensitivity analyses against commodity price volatility.
+w14:paraId="3A37C6D0" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="6DA2BF48" w14:textId="5F903E0A" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Technical Due Diligence for Plant Takeovers &amp; Mergers (Sub-Header)
+w14:paraId="20F2DB08" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="179121E6" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">Acquiring an operating or idle metallurgical asset carries hidden operational risks. We act as your independent engineering partner to uncover the ground reality before capital is deployed.
+w14:paraId="5B1E7945" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00D3091F">
+w14:paraId="35CE2808" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Asset Integrity &amp; Equipment Valuation: On-site engineering evaluations of existing reactors, smelting furnaces, electrowinning cells, rectifiers, and structural frameworks to determine residual life and immediate refurbishment costs.
+w14:paraId="40E28C94" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Process &amp; Document Forensics: Detailed audits of legacy process flowsheets, mass balances, and historical operating data to verify if the asset can actually hit its rated capacity.
+w14:paraId="4E37E328" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Reactivation Engineering Roadmaps: Complete technical scoping, cost estimation, and safety timelines required to bring decommissioned or idle facilities back online safely.
+w14:paraId="43522FD7" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="511243C1" w14:textId="67B45DDC" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Front-End Engineering Design (FEED) (Sub-Header)
+w14:paraId="66D3D58D" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="44BE353B" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">We bridge the gap between a conceptual flowsheet and detailed construction blueprints, ensuring your project parameters are locked in early to prevent costly mid-construction alterations.
+w14:paraId="3B012264" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00D3091F">
+w14:paraId="500CE469" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Process Flowsheet Development: Custom hydrometallurgical and pyrometallurgical circuit configurations optimized for your specific target feedstocks (Cu, Zn, Pb, Co, Ni, or electronic scrap).
+w14:paraId="19A37108" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Equipment Sizing &amp; Preliminary Layouts: Drafting of major equipment datasheets, initial piping and instrumentation diagrams (P&amp;IDs), and plant footprint configurations.
+w14:paraId="2E33EE10" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00017D1D">Regulatory &amp; Environmental Scoping: Preliminary engineering for effluent treatment plants (ETP), gas scrubbing systems, and hazardous waste containment to ensure compliance with modern environmental mandates.
+w14:paraId="4F02D657" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="2E8E7B77" w14:textId="39165950" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Our Proven Methodology (Header)
+w14:paraId="4F4AB5B3" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="5118076E" w14:textId="58FE33D6" w:rsidR="00017D1D" w:rsidRPr="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="7C6310BA" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="22123A5D" w14:textId="13714B51" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Phase 1: Feedstock &amp; Data Validation – We analyze your specific ore grade assays or complex secondary scrap compositions to define baseline recovery potential.
+w14:paraId="3055D183" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Phase 2: Process Design &amp; Simulation – Our engineering team runs simulations to optimize chemical dosing, thermal profiles, and mass flow circuits.
+w14:paraId="67534C41" w14:textId="13CED6F3" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Phase 3: Project Report &amp; Risk Sign-Off – We assemble the final technical engineering package, fully optimized for board review and financial sign-off.
+w14:paraId="798C5FAD" w14:textId="77777777" w:rsidR="00DB024B" w:rsidRDefault="00DB024B" w:rsidP="00DB024B">
+w14:paraId="3141B9E7" w14:textId="77777777" w:rsidR="00DB024B" w:rsidRPr="00A16FA3" w:rsidRDefault="00DB024B" w:rsidP="00DB024B">
+w14:paraId="7794931C" w14:textId="5E93AC62" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Proven Project Track Record (Header)
+w14:paraId="26E36E5A" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="19DC879E" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Technical Due Diligence: Hindustan Copper Limited (Jaghadia)
+w14:paraId="3C4B8859" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Proventus Valuetech conducted a comprehensive technical due diligence and asset evaluation at the Jaghadia facility, reviewing process documentation, plant integrity, and operational readiness to support strategic decision-making.
+w14:paraId="5D440C34" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="38BA90E7" w14:textId="15E89774" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Initiate a Project Scoping Discussion (Header)
+w14:paraId="277C450D" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="6855CE33" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">Are you evaluating an asset takeover or planning a greenfield metallurgical facility? Contact our engineering consultants to establish a secure project framework. All initial inquiries are handled under strict corporate Non-Disclosure Protocols (NDA).
+w14:paraId="441E6FF7" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00A16FA3" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="3ED46407" w14:textId="0E6F9796" w:rsidR="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">[ Request a Technical Consultation] (Clickable button to redirect to contact us page)
+w14:paraId="1357E5E5" w14:textId="2E1B3C56" w:rsidR="00017D1D" w:rsidRDefault="00017D1D">
+w14:paraId="70C4923B" w14:textId="7B94D67E" w:rsidR="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">Turnkey Plant EPC &amp; Owner’s Engineering (The Page Header)
+w14:paraId="07D4751F" w14:textId="77777777" w:rsidR="002D7958" w:rsidRPr="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">
+w14:paraId="50212909" w14:textId="28543A76" w:rsidR="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">Executing High-Recovery Metallurgical Infrastructure from Blueprint to Commissioning (Page Main Line)
+w14:paraId="19608616" w14:textId="77777777" w:rsidR="002D7958" w:rsidRPr="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">
+w14:paraId="46B7AC34" w14:textId="6A3AEDA7" w:rsidR="002D7958" w:rsidRPr="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Translating a complex metallurgical flowsheet into a high-yield, operational plant requires highly specialized engineering. Proventus Valuetech provides core process engineering, equipment integration, and technical project management. We focus strictly on the core chemical and thermal recovery zones—maximizing metal extraction and cathode purity while matching your preferred project delivery model. (Body Text)
+w14:paraId="09B49DD8" w14:textId="77777777" w:rsidR="002D7958" w:rsidRPr="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">
+w14:paraId="5864A4D5" w14:textId="0C6795EE" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Flexible Engagement Models: Turnkey vs. OEC (Header)
+w14:paraId="024045EC" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="002D7958">
+w14:paraId="789202A8" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We adapt our execution framework to align with your project’s capital structure and risk management preferences:
+w14:paraId="653B0514" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="5C680AB3" w14:textId="7B0BF2E7" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Turnkey / Plant Supply Concept (Sub-Header)
+w14:paraId="00B69D68" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="202447A5" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">For investors seeking single-point accountability, we take full responsibility for the core metallurgical package from concept to performance guarantee.
+w14:paraId="119A2555" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="2ADD3B7E" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Complete mechanical and electrical design of the core processing blocks.
+w14:paraId="04400D3F" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Fabrication, sourcing, and supply of proprietary or specialized metallurgical equipment.
+w14:paraId="2848CD68" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Direct supervision of mechanical erection, piping integration, cold/hot commissioning, and final ramp-up to rated TPA capacity.
+w14:paraId="2BF63A38" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="777DAD21" w14:textId="0D0A3C90" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Owner’s Engineering Consultant (OEC) (Sub-Header)
+w14:paraId="184EC3C4" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="7ECD902D" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">For plant owners utilizing independent contractors, we act as your dedicated on-site technical authority to safeguard your capital investment.
+w14:paraId="60C454C0" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="2F20FA78" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Independent review of third-party detailed drawings, vendor calculations, and equipment fabrication quality.
+w14:paraId="1F35ABA2" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Strict technical oversight during equipment alignment, piping connections, and critical circuit tie-ins.
+w14:paraId="690617C0" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Unbiased monitoring of commissioning protocols to ensure your contractors meet guaranteed metallurgical benchmarks.
+w14:paraId="28E51CE3" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="002D7958">
+w14:paraId="50CB9F8A" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="002D7958">
+w14:paraId="0F561844" w14:textId="76C72461" w:rsidR="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">Our Core Capabilities (Header)
+w14:paraId="5602EA66" w14:textId="77777777" w:rsidR="002D7958" w:rsidRPr="002D7958" w:rsidRDefault="002D7958" w:rsidP="002D7958">
+w14:paraId="66B779CD" w14:textId="6C63712D" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Advanced Pyrometallurgical Processes (Sub-Header)
+w14:paraId="27C8A5A9" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We design robust, thermal processing circuits optimized for high-temperature smelting, roasting, and fire-refining of both primary concentrates and complex metallic scraps.
+w14:paraId="0385C0D0" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="5788055B" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Furnace &amp; Vessel Optimization: Detailed thermal and mass balance modeling to size smelting furnaces, converters, and holding vessels.
+w14:paraId="5BD15587" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Refractory &amp; Material Selection: Engineering thermal profiles and selecting optimal refractory lining materials to maximize equipment life against corrosive slags.
+w14:paraId="29CE3441" w14:textId="595CE530" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Slag Metallurgy &amp; By-Product Management: Optimizing fluxing chemistries to minimize metal losses in slag and maximize primary melt recovery
+w14:paraId="0E18B04A" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="7E52D703" w14:textId="0DD94169" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">High-Purity Electrorefining Systems (Sub-Header)
+w14:paraId="73879C19" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="4B0F91E3" w14:textId="1901C24C" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We engineer high-efficiency aqueous electrorefining circuits designed to transform impure anode metal into LME Grade-A commercial cathodes.
+w14:paraId="1F2C7FE3" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="2F5C9EC9" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Anode/Cathode Cell House Layouts: Designing optimal electrode spacing, electrolyte circulation loops, and automated handling clearances.
+w14:paraId="0F445F63" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Current Density &amp; Busbar Optimization: Engineering electrical systems and busbar configurations to maximize current efficiency and eliminate short circuits.
+w14:paraId="4D0C0EB0" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Electrolyte Chemistry Control: Designing precise filtration, temperature regulation, and dosing systems to prevent impurity occlusion in the final product.
+w14:paraId="7297C981" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="45861D95" w14:textId="61619446" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Core Basic &amp; Detailed Engineering Packages 
+w14:paraId="560F2FB8" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="4529C20F" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Our design engineering isolates and optimizes the high-value metallurgical core. We deliver absolute clarity on process technology, allowing your local contractors to handle standard civil and exhaust systems.
+w14:paraId="5E72D8EB" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="6E06869F" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Process Architecture: Finalizing Process Flow Diagrams (PFDs), Piping &amp; Instrumentation Diagrams (P&amp;IDs), and mass-energy balances.
+w14:paraId="0B67856A" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Mechanical &amp; Piping Packages: 3D digital plant twins, equipment layout configurations, and core process piping designs.
+w14:paraId="1D75EC88" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Electrical &amp; Automation: Power single-line diagrams (SLDs) for rectifiers, control panel layouts, and instrumentation networks for real-time process monitoring.
+w14:paraId="69475F94" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="1861FFE1" w14:textId="0D2A0217" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Our Execution Framework (Header)
+w14:paraId="02A21C9B" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00A16FA3" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="20300CD3" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00017D1D" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="6E68BC11" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00017D1D" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="34449FC8" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Phase 1: Core Process Engineering – We lock in the thermal or electrochemical parameters and deliver detailed mechanical blueprints for the core processing zone.
+w14:paraId="47B293B2" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Phase 2: Equipment Supply &amp; OEC Oversight – We dispatch turnkey equipment or execute on-site OEC quality audits to prepare the plant for mechanical completion.
+w14:paraId="28D8FDEA" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Phase 3: Commissioning &amp; Yield Guarantee – Our engineers lead the hot commissioning trials, balance the metallurgical circuits, and prove the plant's rated output capacity.
+w14:paraId="77472C65" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="4BE81876" w14:textId="5ED0985C" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Proven Project Track Record (Header)
+w14:paraId="41D5CC6F" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="21FF4235" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Turnkey Copper Cathode Plant: Gujarat Victory Forging Pvt. Ltd.
+w14:paraId="589BAED7" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Proventus Valuetech successfully delivered the complete design, erection, and hot commissioning of a 6,000 TPA copper cathode manufacturing plant utilizing copper scrap as secondary feedstock in Vadodara, Gujarat.
+w14:paraId="12A469AE" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="678F41CC" w14:textId="67C468BF" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Move Your Project into the Execution Phase (Header)
+w14:paraId="35956329" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="7DDC2B30" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Whether you require a turnkey core plant package or a specialized Owner's Engineer to audit your current contractors, our team is equipped to deliver. Contact our industrial consultants today to review your project parameters under corporate Non-Disclosure Protocol (NDA).
+w14:paraId="7D94EE69" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00E4621A" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="0271C8DA" w14:textId="23DFD881" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">[ Request an Engineering &amp; EPC Consultation] (Clickable button to redirect to contact us page)
+w14:paraId="5135C0F3" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="011F00C0" w14:textId="1D6C8225" w:rsidR="00FC0760" w:rsidRDefault="00FC0760">
+w14:paraId="66C9885A" w14:textId="72A39C72" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Process Audit &amp; Performance Modernization (The Page Header)
+w14:paraId="1B254F7E" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="75FE5F4B" w14:textId="6BB88B37" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Unlocking Latent Capacity and Efficiency in Existing Metallurgical Assets (The Page Main Line)
+w14:paraId="335B81B3" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="3A9AB1FD" w14:textId="2363C598" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">If your plant is failing to hit rated capacity, consuming excessive energy per ton, or producing sub-standard cathode/product purity, you have "value leakage" within your process flow. Proventus Valuetech conducts deep-dive forensic audits of pyrometallurgical and electrorefining circuits to pinpoint bottlenecks and implement targeted engineering upgrades that restore performance and maximize profit margins. (Body Text)
+w14:paraId="74599941" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="3D58EAF5" w14:textId="5D234301" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Our Core Diagnostic &amp; Improvement Capabilities (Header)
+w14:paraId="35DD8B3A" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="173A8EBA" w14:textId="53BF1D1B" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Forensic Process Audits (Sub-Header)
+w14:paraId="7E746E79" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="3C822141" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We move beyond superficial checks to perform a rigorous technical examination of your existing metallurgical circuit.
+w14:paraId="48CEA1A2" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="6742907B" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Mass &amp; Energy Balance Reconciliation: We verify if your actual plant output aligns with theoretical potential, identifying precisely where metal is being lost in slags, slimes, or electrolyte waste.
+w14:paraId="7FAD9EAA" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Performance Benchmarking: Comparative analysis of your current thermal/electrochemical performance against industry-best standards for copper, zinc, lead, and precious metal recovery.
+w14:paraId="42ACD3BF" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Equipment Health Assessment: Evaluation of existing furnace linings, anode/cathode handling systems, and electrolytic cell integrity to identify the true root causes of operational downtime.
+w14:paraId="518E74B0" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="7B44271E" w14:textId="77B9C5F3" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Pyrometallurgical &amp; Electrorefining Modernization (Sub-Header)
+w14:paraId="0A1E5B53" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="009D96D9" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We upgrade legacy circuits by integrating modern chemical and process controls, allowing you to achieve commercial-grade purity without a full plant rebuild.
+w14:paraId="749709F1" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="38B0BA81" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Circuit Optimization: Redesigning thermal and chemical loops to improve reaction kinetics, reducing fuel consumption in smelters and roasting units.
+w14:paraId="6EEFBF21" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Electrorefining Performance Tuning: Adjusting current densities, additive regimes, and electrolyte flow dynamics to eliminate cathode contamination and reduce short-circuit frequency.
+w14:paraId="7E84393D" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Metal Recovery Enhancement: Implementing specialized slag-treatment or electrolytic recovery methods to reclaim metal units previously destined for the waste pile.
+w14:paraId="520BE907" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="3194DADD" w14:textId="35188189" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Throughput Debottlenecking (Sub-Header)
+w14:paraId="0CA82068" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="369D13F2" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We specialize in "sweating the assets"—increasing your plant’s throughput (TPA) by identifying and resolving the singular constraints that limit total system capacity.
+w14:paraId="4B9F96D2" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="43130594" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Flowsheet Retuning: Adjusting operational parameters to accelerate batch times or increase continuous throughput.
+w14:paraId="4BC9D05D" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Process Control Upgrades: Integrating modern instrumentation and monitoring for real-time adjustments to chemical concentrations, temperatures, and power profiles.
+w14:paraId="184B5236" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Operational Training &amp; Protocol: Implementing standardized operating procedures (SOPs) based on your improved flowsheet to ensure performance gains are sustained long-term.
+w14:paraId="312FB5C1" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="1C9D8D9A" w14:textId="619BE515" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">The Improvement Framework (Header)
+w14:paraId="69149CAC" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="634E1852" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">We work under both Turnkey Implementation (where we execute the upgrade) and Owner’s Engineering Consultant (OEC) (where we direct your maintenance teams to implement our findings).
+w14:paraId="5582E10A" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="364AD086" w14:textId="1F3AEAA3" w:rsidR="00FC0760" w:rsidRPr="00FC0760" w:rsidRDefault="007B3364" w:rsidP="00FC0760">
+w14:paraId="65C04410" w14:textId="190029A8" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="007B3364">Phase 1: Forensic Audit &amp; Baselining – We map your existing process, conduct data analysis, and define the performance gap between current output and target capacity.
+w14:paraId="1C0004BD" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="007B3364">Phase 2: Engineered Solutions – We provide the exact technical roadmap—mechanical modifications, chemical dosing adjustments, or equipment tuning—to close the gap.
+w14:paraId="47C298DB" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="007B3364">Phase 3: Performance Validation – We oversee the implementation and conduct a post-audit performance run to prove the increase in yield, purity, or throughput.
+w14:paraId="5414C70E" w14:textId="77777777" w:rsidR="007B3364" w:rsidRPr="00D04D2C" w:rsidRDefault="007B3364" w:rsidP="007B3364">
+w14:paraId="0F6EED5E" w14:textId="246C3E79" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Proven Project Track Record (Header)
+w14:paraId="7BD3821C" w14:textId="77777777" w:rsidR="007B3364" w:rsidRPr="00D04D2C" w:rsidRDefault="007B3364" w:rsidP="00FC0760">
+w14:paraId="2D94E087" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Process Optimization: Sterlite Copper (Silvassa)
+w14:paraId="4376696B" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Proventus Valuetech successfully undertook a complex process improvement and by-product recovery project for Sterlite Copper at their Silvassa facility, identifying key operational efficiencies that significantly enhanced recovery and purity performance.
+w14:paraId="52F2C679" w14:textId="77777777" w:rsidR="007B3364" w:rsidRPr="00D04D2C" w:rsidRDefault="007B3364" w:rsidP="00FC0760">
+w14:paraId="30B70790" w14:textId="23D65BAA" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Ready to Increase Your Yield? (Header)
+w14:paraId="78A9E30B" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">Stop losing potential revenue to process inefficiency. Contact our industrial consultants to schedule an initial site assessment. We will analyze your metallurgical challenges and provide a roadmap for measurable performance gains, handled under strict corporate Non-Disclosure Protocol (NDA).
+w14:paraId="6FFB6EFA" w14:textId="77777777" w:rsidR="007B3364" w:rsidRPr="00D04D2C" w:rsidRDefault="007B3364" w:rsidP="00FC0760">
+w14:paraId="287824FE" w14:textId="3294DE2E" w:rsidR="00FC0760" w:rsidRPr="00D04D2C" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">[ Request a Plant Performance Audit] (Clickable button to redirect to contact us page)
+w14:paraId="2CA7A6E4" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="55C39997" w14:textId="73CD2B93" w:rsidR="00FC0760" w:rsidRPr="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="258C749A" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="26B421B0" w14:textId="77777777" w:rsidR="00FC0760" w:rsidRPr="00FC0760" w:rsidRDefault="00FC0760" w:rsidP="00FC0760">
+w14:paraId="3657A305" w14:textId="77777777" w:rsidR="00017D1D" w:rsidRPr="00017D1D" w:rsidRDefault="00017D1D" w:rsidP="00017D1D">
+w14:paraId="25ACDF67" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00A16FA3" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="5B636234" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
+w14:paraId="4B837D50" w14:textId="77777777" w:rsidR="00D3091F" w:rsidRPr="00D3091F" w:rsidRDefault="00D3091F" w:rsidP="00D3091F">
